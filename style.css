@@ -1,0 +1,16 @@
+body{
+	margin:30px 0px 0px 30px;
+	overflow:hidden;
+}
+.logo{
+	width: 95px;
+	vertical-align: center;
+	
+}
+header{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+	vertical-align: center;
+}
